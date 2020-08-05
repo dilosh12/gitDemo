@@ -7,5 +7,7 @@ public class BookARoom {
         //Another day to practice
         
         System.out.println("I'm going to add some more to check if git pull will work or not.");
+
+        System.out.println("It is easier to code in IntelJ, it's faster");
     }
 }
